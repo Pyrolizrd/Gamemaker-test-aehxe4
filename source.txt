@@ -7,7 +7,7 @@ Let's make a game!
  
 Settings :
         -prices increase by 110%
-        -selling gives back 85%
+        -selling gives back 850000%
         -resources are visible by default
         -clickables are hidden by default
         -buildings are hidden by default
